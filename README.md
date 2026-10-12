@@ -29,7 +29,6 @@ This project uses [uv](https://docs.astral.sh/uv/) to manage dependencies.
 
 ```bash
 git clone <repo-url>
-cd Week_1_Project_Vis
 uv run streamlit run src/app.py
 ```
 
